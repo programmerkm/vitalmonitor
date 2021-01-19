@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>heart.png</file>
+        <file>lungs.png</file>
+        <file>HeartData.js</file>
+        <file>Icon.js</file>
+    </qresource>
+</RCC>
